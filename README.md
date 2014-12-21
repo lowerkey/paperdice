@@ -8,6 +8,7 @@ Ingredients:
 - Ink
 
 Instructions:
+
 Rip three scraps off a piece of paper.
 Label them:
 - 2^0
